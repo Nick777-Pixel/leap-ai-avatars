@@ -16,7 +16,7 @@ const GithubButton = () => {
       top={0}
       right={4}
       onClick={() =>
-        window.open("https://github.com/")
+        window.open("https://github.com")
       }
     >
       <AiFillGithub color="black" />
