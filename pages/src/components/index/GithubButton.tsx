@@ -16,12 +16,12 @@ const GithubButton = () => {
       top={0}
       right={4}
       onClick={() =>
-        window.open("https://github.com/alexschachne/leap-ai-avatars")
+        window.open("https://github.com/")
       }
     >
       <AiFillGithub color="black" />
       <Text fontWeight={"bold"} color={"#1c1c1c"}>
-        Fork the code on GitHub
+        
       </Text>
     </HStack>
   );
